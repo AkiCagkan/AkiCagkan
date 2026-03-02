@@ -2,7 +2,7 @@
 
 <h3 align="center">A computer science student at Bilkent University working on backend development, computer vision, and industrial automation</h3>
 
-- 📫 How to reach me **akicagkano@gmail.com**
+- 📫 How to reach me **akicagkan0@gmail.com**
 
 ### Connect with me:
 <p align="left">
