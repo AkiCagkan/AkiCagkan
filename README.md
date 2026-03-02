@@ -18,4 +18,4 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,opencv" alt="tools" />
 </p>
- at Bilkent University Social Responsibility Projects (TDP).
+
