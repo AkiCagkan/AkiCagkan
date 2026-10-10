@@ -1,21 +1,44 @@
-<h1 align="center">Hi 👋, I'm Cagkan</h1>
+<div align="center">
 
-<h3 align="center">A computer science student at Bilkent University working on backend development, computer vision, and industrial automation</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+%C3%87a%C4%9Fkan+%F0%9F%91%8B;Computer+Engineering+%40+Bilkent;Backend+%26+AI+Engineer;Computer+Vision+%26+Industrial+Automation" alt="Typing SVG" />
 
-- 📫 How to reach me **akicagkan0@gmail.com**
+<a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fkan-aki-a6463a37a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/CagkanAki/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:akicagkan0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Ankara%2C%20Türkiye-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/çağkan-aki-a6463a37a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cagkan Aki" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/CagkanAki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CagkanAki" height="30" width="40" /></a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Engineering student at **Bilkent University**
+- 💼 Backend Engineering Intern at **Jotform**
+- 🤖 Previously AI / Backend Engineer Intern at **Sentinel Energy & Control Technologies**
+- 🌍 Software/firmware internship at **Euromag International** (Padova, Italy)
+- 🌱 Interested in backend development, computer vision, and industrial automation
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,php,mysql,redis&perline=8" alt="Languages & Databases" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,qt&perline=8" alt="Frameworks" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,opencv&perline=8" alt="Tools" />
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,mysql" alt="languages" /> 
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,qt" alt="frameworks" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,opencv" alt="tools" />
-</p>
+### 🔥 Activity
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AkiCagkan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkiCagkan/AkiCagkan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkiCagkan/AkiCagkan/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AkiCagkan/AkiCagkan/output/github-snake.svg" />
+</picture>
+
+</div>
