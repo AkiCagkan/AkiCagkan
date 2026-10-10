@@ -13,11 +13,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at **Bilkent University**
-- 💼 Backend Engineering Intern at **Jotform**
-- 🤖 Previously AI / Backend Engineer Intern at **Sentinel Energy & Control Technologies**
-- 🌍 Software/firmware internship at **Euromag International** (Padova, Italy)
-- 🌱 Interested in backend development, computer vision, and industrial automation
+Computer Engineering student at **Bilkent University** with internship experience in backend engineering and AI.
+Interested in backend development, computer vision and industrial automation.
+
+### 💼 Experience
+
+- **Jotform** — Backend Engineering Intern · *Summer 2026*
+- **Sentinel Energy & Control Technologies** — AI / Backend Engineer Intern
+- **Euromag International** — Software / Firmware Intern · *Padova, Italy*
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +34,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AkiCagkan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkiCagkan/AkiCagkan/output/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkiCagkan/AkiCagkan/output/streak.svg" />
+  <img alt="GitHub contribution streak" src="https://raw.githubusercontent.com/AkiCagkan/AkiCagkan/output/streak.svg" />
+</picture>
 
 <br/><br/>
 
